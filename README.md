@@ -6,3 +6,5 @@ This is the README.md for my newly created Git repository that I did for Assignm
 Making a change to commit to the repository.
 
 One more change to demonstrate pull.
+
+Making a change from Eclipse and pushing to the GitHub respository.
